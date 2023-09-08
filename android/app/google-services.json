@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213726099732",
+    "project_id": "matchi-app-1502e",
+    "storage_bucket": "matchi-app-1502e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213726099732:android:0c98b1e4c5188268a72a01",
+        "android_client_info": {
+          "package_name": "com.osmsmix.matchi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213726099732-d5ev677nutkpoj0kdmsgrv49e6j6nmcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo04pycFachtQE8iNB7GiMEwmlWYcQ1H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213726099732-d5ev677nutkpoj0kdmsgrv49e6j6nmcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
